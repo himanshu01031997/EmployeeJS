@@ -9,5 +9,5 @@ if(empcheck==IS_ABSENT)
 }
 else
 {
-console.log("employee is present");
+console.log("Employee is present");
 }
