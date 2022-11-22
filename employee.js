@@ -34,4 +34,4 @@ switch(empcheck)
   
 }
 let dailywage=WAGE_PER_HOUR*emphr;
-console.log("daily wage of employee is"+dailywage);
+console.log("daily wage of Employee is"+dailywage);
